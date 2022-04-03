@@ -1,0 +1,14 @@
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\bin\Debug\netcoreapp3.1\RecapHomework.exe
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\bin\Debug\netcoreapp3.1\RecapHomework.deps.json
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\bin\Debug\netcoreapp3.1\RecapHomework.runtimeconfig.json
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\bin\Debug\netcoreapp3.1\RecapHomework.runtimeconfig.dev.json
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\bin\Debug\netcoreapp3.1\RecapHomework.dll
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\bin\Debug\netcoreapp3.1\RecapHomework.pdb
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\obj\Debug\netcoreapp3.1\RecapHomework.csproj.AssemblyReference.cache
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\obj\Debug\netcoreapp3.1\RecapHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\obj\Debug\netcoreapp3.1\RecapHomework.AssemblyInfoInputs.cache
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\obj\Debug\netcoreapp3.1\RecapHomework.AssemblyInfo.cs
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\obj\Debug\netcoreapp3.1\RecapHomework.csproj.CoreCompileInputs.cache
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\obj\Debug\netcoreapp3.1\RecapHomework.dll
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\obj\Debug\netcoreapp3.1\RecapHomework.pdb
+C:\Users\murad\source\repos\RecapHomework\RecapHomework\obj\Debug\netcoreapp3.1\RecapHomework.genruntimeconfig.cache
